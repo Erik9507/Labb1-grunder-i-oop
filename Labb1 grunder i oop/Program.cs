@@ -1,4 +1,4 @@
-﻿using System;       //Erik Norell sut21
+﻿using System;       //Erik Norell sut21 
 
 namespace Labb1_grunder_i_oop
 {
